@@ -41,6 +41,11 @@ Evaluate whether showing ads leads to a higher conversion rate compared to a Pub
 
 -----------------------------------------------------------------------------------------------
 
+### Visualization
+The chart below was created using Tableau to compare conversion rates between the Ad and PSA groups.
+
+-----------------------------------------------------------------------------------------------
+
 ## Conclusion
 The Ad campaign performs **significantly better** than the PSA campaign.
 The difference in conversion rates is statistically significant at the 95% confidence level.
