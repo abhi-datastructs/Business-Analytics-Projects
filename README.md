@@ -44,6 +44,8 @@ Evaluate whether showing ads leads to a higher conversion rate compared to a Pub
 ### Visualization
 The chart below was created using Tableau to compare conversion rates between the Ad and PSA groups.
 
+![Conversion Rate Comparison]Conversion Rate by Campaign.png
+
 -----------------------------------------------------------------------------------------------
 
 ## Conclusion
