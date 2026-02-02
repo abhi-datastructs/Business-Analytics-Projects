@@ -54,7 +54,7 @@ ________________________________________________________________________________
 ## Visualization
 The chart below compares conversion rates between the Ad and PSA groups.
 
-![Conversion Rate Comparison](visuals/Conversion Rate by Campaign.png)
+![Conversion Rate Comparison](visuals/Conversion_Rate_by_Campaign.png)
 
 ## Conclusion
 The Ad campaign performs significantly better than the PSA campaign.  
