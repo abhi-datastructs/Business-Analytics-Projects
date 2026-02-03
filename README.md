@@ -38,13 +38,13 @@ This site showcases real-world projects focused on business insights, experiment
 - **Programming & Analytics Tools –** Python for data analysis and automation (pandas, numpy); exposure to analytics workflows
 
 ---
-## 📂 Repository Structure
-
+## 📁 Repository Structure
+```
 ├── analysis/ #Project write-ups & findings
 ├── data/# Datasets used
 ├── visuals/ #Charts & Tableau exports
 └── README.md # Portfolio homepage
-
+```
 ---
 
 ## 📬 Let’s Connect
